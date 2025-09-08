@@ -1,0 +1,17 @@
+# === Núcleo científico / utilidades ===
+numpy==2.0.2
+pandas==2.2.2
+matplotlib==3.10.0
+scipy==1.16.1
+sympy==1.13.3
+tqdm==4.67.1
+base58 
+pycryptodome
+
+# === Jupyter (ejecutar notebooks) ===
+ipykernel==6.17.1
+notebook==6.5.7
+
+# === Qiskit (circuitos, QFT, simulación) ===
+qiskit==2.1.2
+qiskit-aer==0.17.1
